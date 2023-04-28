@@ -31,6 +31,7 @@ export default function Home() {
                     <Case />
                     <GenCase />
                 </div>
+
                 {/* <section>
                     <p className="text-2xl font-semibold p-10">
                         {" "}
